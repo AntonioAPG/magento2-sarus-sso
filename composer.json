@@ -3,7 +3,7 @@
   "description": "Magento 2 extension - SSO Identity Provider",
   "type": "magento2-module",
   "license": "proprietary",
-  "version": "2.4",
+  "version": "2.4.1",
   "authors": [
     {
       "name": "Sarus Team",
