@@ -18,10 +18,10 @@
   "require": {
     "ext-openssl": "*",
     "magento/module-customer": "100.*.*|101.*.*|102.*.*|103.*.*",
-    "magento/module-store": "100.*.*|101.*.*",
-    "magento/module-config": "100.*.*|101.*.*",
-    "magento/module-backend": "100.*.*|101.*.*",
-    "magento/framework": "100.*.*|101.*.*|102.*.*",
+    "magento/module-store": "100.*.*|101.*.*|103.*.*",
+    "magento/module-config": "100.*.*|101.*.*|103.*.*",
+    "magento/module-backend": "100.*.*|101.*.*|103.*.*",
+    "magento/framework": "100.*.*|101.*.*|102.*.*|103.*.*",
     "lightsaml/lightsaml": "^1.4",
     "vaimo/composer-patches": "^3.24.1"
   },
